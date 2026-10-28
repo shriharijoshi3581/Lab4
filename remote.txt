@@ -1,1 +1,2 @@
 Content of remote file
+next commit
