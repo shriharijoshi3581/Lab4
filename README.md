@@ -4,7 +4,7 @@ Cloning the repository
 
 ## Student Information
 
-- **Name:** Your Name
+- **Name:** Your Name,
 - **USN:** Your USN
 - **Branch:** Computer Science and Engineering
 - **Semester:** 3rd Semester
