@@ -21,3 +21,4 @@ This repository is created as part of the Project Management with Git Lab.
 4. git commit
 5. git push
 6. git pull
+7. git fetch
